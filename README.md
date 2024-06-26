@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdevopsturkiye%2Fyaz%25C4%25B1l%25C4%25B1m-geli%25C5%259Ftiriciler-i%25CC%2587%25C3%25A7in-13-i%25CC%2587pucu-fda9180b2f28&psig=AOvVaw10_T1TBH_-Ui3j28UYvMLL&ust=1719488658801000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjNqcqY-YYDFQAAAAAdAAAAABAE)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD7ptLyGlUdNQQ3KNbq12m-kDymr9Kx4qr4A&s)
 <h1 align="center">Hi 👋, I'm Buse</h1>
 <h3 align="center">Computer Engineer in turkey</h3>
 
