@@ -2,6 +2,7 @@
 ![snake gif](https://github.com/busekosee/busekosee/blob/output/github-contribution-grid-snake.gif)
 ![](https://komarev.com/ghpvc/?username=busekosee&color=blue)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <h1 align="center">Hi 👋, I'm Buse</h1>
 <h3 align="center">Computer Engineer in turkey</h3>
 
