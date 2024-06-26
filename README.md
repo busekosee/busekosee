@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD7ptLyGlUdNQQ3KNbq12m-kDymr9Kx4qr4A&s)
+[![MasterHead](https://btdersi.com/wp-content/uploads/2022/09/lesson-page-bg.jpg)
 <h1 align="center">Hi 👋, I'm Buse</h1>
 <h3 align="center">Computer Engineer in turkey</h3>
 
