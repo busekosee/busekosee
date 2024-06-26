@@ -1,6 +1,7 @@
 [![MasterHead](https://btdersi.com/wp-content/uploads/2022/09/lesson-page-bg.jpg)
 ![snake gif](https://github.com/busekosee/busekosee/blob/output/github-contribution-grid-snake.gif)
 ![](https://komarev.com/ghpvc/?username=busekosee&color=blue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 <h1 align="center">Hi 👋, I'm Buse</h1>
 <h3 align="center">Computer Engineer in turkey</h3>
 
