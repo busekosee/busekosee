@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <h1 align="center">Hi 👋, I'm Buse</h1>
 <h3 align="center">Computer Engineer in turkey</h3>
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning **.Net,Python,Artificial Intelligence**
 
 - 💬 Ask me about **php,.Net,python,java**
