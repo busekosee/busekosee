@@ -9,6 +9,7 @@
 - 🌱 Currently diving deep into **Advanced Machine Learning and Deep Learning techniques**
 - 💡 Passionate about developing intelligent solutions using Python and AI
 - 💬 Ask me about **Python (Primary), C#, PHP, Machine Learning, AI Projects**
+
 - 📫 Reach me at **https://www.linkedin.com/in/buse-k%C3%B6se-aa4452254/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
