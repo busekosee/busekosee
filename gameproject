@@ -1,0 +1,31 @@
+import os
+
+# Klasör ve dosya yapısı
+project_structure = {
+    "GameProject": {
+        "Assets": ["Characters", "Environments", "UI", "Sounds"],
+        "Scripts": ["GameManager.cs", "PlayerController.cs", "TaskManager.cs", "AIWarnings.cs"],
+        "Scenes": ["MainMenu.scene", "LabScene.scene"],
+        "Prefabs": ["Player.prefab", "SafetyHelmet.prefab", "GlassShards.prefab"]
+    }
+}
+
+# Klasörleri ve dosyaları oluşturma fonksiyonu
+def create_structure(base_path, structure):
+    for folder, contents in structure.items():
+        folder_path = os.path.join(base_path, folder)
+        os.makedirs(folder_path, exist_ok=True)
+
+        for item in contents:
+            if isinstance(item, dict):
+                create_structure(folder_path, item)
+            else:
+                file_path = os.path.join(folder_path, item)
+                with open(file_path, "w") as f:
+                    f.write(f"// {item} dosyası oluşturuldu.\n")
+
+# Projeyi bulunduğun dizine oluştur
+base_directory = os.getcwd()
+create_structure(base_directory, project_structure)
+
+print(f"Oyun projesi '{base_directory}/GameProject' içine oluşturuldu!")
